@@ -44,6 +44,6 @@ tasks.named('test') {
 
 jar {
 	manifest {
-		attributes 'ApIsinPagApplication': 'com.APIsinPAg.APIsinPag.ApIsinPagApplication' // Reemplaza 'tu.paquete.MainClass' con la clase principal de tu aplicación
+		attributes 'ApIsinPagApplication': 'com.APIsinPag.APIsinPag.ApIsinPagApplication' // Reemplaza 'tu.paquete.MainClass' con la clase principal de tu aplicación
 	}
 }
